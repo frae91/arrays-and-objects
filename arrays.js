@@ -1,9 +1,8 @@
-/*
-Assume you are starting with the following people array:
+// Assume you are starting with the following people array:
 
 let people = ["Greg", "Mary", "Devon", "James"];
 
-*/
+
 
 // 1. Using a loop, iterate through this array and console.log all of the people
 

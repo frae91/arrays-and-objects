@@ -1,5 +1,4 @@
-/*
-Assume you are starting with the following programming object:
+// Assume you are starting with the following programming object:
 
 const programming = {
     languages: ["JavaScript", "Python", "Ruby"],
@@ -7,8 +6,7 @@ const programming = {
     isRewarding: true,
     difficulty: 8,
     jokes: "http://stackoverflow.com/questions/234075/what-is-your-best-programmer-joke"
-}
-*/
+};
 
 // 1. Write the command to add the language "Go" to the end of the languages array.
 
